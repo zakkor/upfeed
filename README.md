@@ -4,4 +4,4 @@ Upfeed is a tool that checks your Upwork job feed periodically for new jobs, fil
 
 ## Usage:
 
-`upfeed -feed "upwork rss feed" -saveDir "directory where to save recorded jobs"
+`upfeed -feed "upwork rss feed" -saveDir "directory where to save recorded jobs"`
